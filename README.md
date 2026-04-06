@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Nihal 👋
 
-<!--
-**nihal-analytics/nihal-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Operations and Program Management professional with 2+ years of experience in analytics-driven decision-making.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- SQL, Excel, Google Sheets  
+- Power BI, Looker Studio  
+- Data Analysis & KPI Tracking  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- Mentor Performance Dashboard (Looker Studio)  
+- Customer Support Analysis (Power BI)  
+- Business Insights using SQL  
+
+## 📫 Contact
+LinkedIn: https://linkedin.com/in/nihalprem/
